@@ -11,9 +11,9 @@ sidebar:
     tagline: Software engineering
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-     Sidebar links
+    # Sidebar links
     email: bahram.behnejad1366@gmail.com
-    phone:09224328683 
+    phone: 09224328683 
     website: bahram200.github.io/
     linkedin: Bahram-Behnejad
     github: https://github.com/bahram200
