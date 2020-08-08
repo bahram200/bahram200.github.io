@@ -133,42 +133,42 @@ education:
     #  university: Heidelberg University
      # time: 2015 - current
      # details: |
-        Unsupervised deep learning for automatic behavior analysis
+       # Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+          #- Unsupervised learning
+         # - Representaion learning
+         # - Automatic Behavior Analysis
 
     #- degree: Internship (Master Thesis)
      # university: Tobii
     #  time: 2014 - 2015
      # details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      #  Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-          - Deep learning
-          - Hand Gesture
+          #- Deep learning
+         # - Hand Gesture
 
     #- degree: Master Degree
      # university: KTH (Stockholm, Sweden)
      # time: 2013 - 2015
       #details: |
-        Master degree in Computer Science and Artificial Intelligence
+      #  Master degree in Computer Science and Artificial Intelligence
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+          #- Artificial Intelligence
+         # - Machine Learning
+         # - Computer Vision
     
    # - degree: Master Degree
     #  university: Politecnico di Torino (Torino, Italy)
      # time: 2012 - 2015
     #  details: |
-        Master degree in Software Engineering
+      #  Master degree in Software Engineering
     
     #- degree: Bachelor Degree
     #  university: Politecnico di Torino (Torino, Italy)
      # time: 2009 - 2012
       #details: |
-        Master degree in Computer Engineering
+       # Master degree in Computer Engineering
 
 
 experiences:
